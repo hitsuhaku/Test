@@ -3,11 +3,11 @@
 
 ---
 
-##メンバー
-*Hitsuhaku
-*Dododo
-*Hahaha
+## メンバー
+* Hitsuhaku
+* Dododo
+* Hahaha
 
-##ファイルの構成
+## ファイルの構成
 
-##リリース方法
+## リリース方法
